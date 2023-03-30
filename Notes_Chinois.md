@@ -5,20 +5,20 @@
   
   
 # Verbes  
-有 = yǒu = avoir
-是 = shi = être 
-给 = gěi = donner
-要 = yaò = vouloir
-会 = huì = pouvoir
-说 = shuō = parler 
-来 = lái = venir 
-看 = kàn = voir / regarder
-爱 = ài = aimer 
-喝 = hē = boire
-到 = dào = arriver
-学习 = xué xí = apprendre
-完 = wán = finir (你吃完了吗?)
-  
+有 = yǒu = avoir  
+是 = shi = être   
+给 = gěi = donner  
+要 = yaò = vouloir  
+会 = huì = pouvoir  
+说 = shuō = parler   
+来 = lái = venir   
+看 = kàn = voir / regarder  
+爱 = ài = aimer   
+喝 = hē = boire  
+到 = dào = arriver  
+学习 = xué xí = apprendre  
+完 = wán = finir (你吃完了吗?)  
+    
 # Vocabulaire avancé
 ### 
 电话, dianhua, téléphone = électricité + parole  
