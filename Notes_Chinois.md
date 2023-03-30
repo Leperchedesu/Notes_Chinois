@@ -1,8 +1,6 @@
-# Vocabulaire de base  
+# Mots de base 
 错 = cuò = mal, faux (不错 = pas mal)    
 吃饭 = chī fàn = Manger (du riz, les deux vont ensemble)    
-吃包了 = chī bao le = je n'ai plus faim = rempli  
-很好吃 = hěn hǎo chī = très bon (nourriture)  
 贵 = gui = cher, précieux    
 还 = hǎi = encore  
 个 = ge = spécificateur   
@@ -20,19 +18,36 @@ dà jiā = tout le monde
 还是 = háishì = ou   
 先生 = xiān shēng = monsieur 
 你几岁？= Tu as quel âge ?   
-生日 = sheng ri = anniversaire     
-    
+生日 = sheng ri = anniversaire  
   
-**Temporalité**  
+### Particules  
+很 = hěn = très  
+太 = tài = trop  
+吗 = mā = particule à la fin d'une question  
+也 = yě = aussi   
+呢 = ne = et (你呢 ？"et toi ?")  
+不 = bù = ne pas (particule de négation)  
+了 = le = forme du passé  
+吧 = ba = exclamation à la fin d'une phrase (consentement, approbation, requête, ordre)  
+  
+  
+### Temporalité  
 什么时候 = shénme shíhòu = quand ?    
 几侯 = jîhòu = quand   
 昨天 = zuótiān = hier  
 今天 = jīntiān = aujourd'hui   
 明天 = míngtiān = demain  
- 
   
-# Règles de base
-  
+# Phrases de base
+吃包了 = chī bao le = je n'ai plus faim = rempli  
+很好吃 = hěn hǎo chī = très bon (nourriture) 
+对 = duì = correct (utilisé pour approbation, "oui")
+好的 = Hao de = "ok" positif 
+好吧 = Hao ba = "ok" mais hésitant ("ça me va")
+我听不明白 = wǒ tīng bù míngbái = (j'ai entendu) mais je n'ai pas compris
+有一点忙 = Yǒu yīdiǎn máng = un peu occupé
+没事 = mei shì = pas de problème
+太好了 = tài hǎo le = trop bien / super
   
 # Verbes  
 有 = yǒu = avoir  
@@ -48,7 +63,9 @@ dà jiā = tout le monde
 到 = dào = arriver  
 学习 = xué xí = apprendre  
 完 = wán = finir (你吃完了吗?)  
-    
+ 
+# Règles de base  
+  
 # Vocabulaire avancé
 ### 
 电话, dianhua, téléphone = électricité + parole  
