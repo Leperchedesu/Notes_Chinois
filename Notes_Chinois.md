@@ -39,16 +39,16 @@ dà jiā = tout le monde
 明天 = míngtiān = demain  
   
 # Phrases de base
-吃包了 = chī bao le = je n'ai plus faim = rempli  
-很好吃 = hěn hǎo chī = très bon (nourriture) 
-对 = duì = correct (utilisé pour approbation, "oui")
-好的 = Hao de = "ok" positif 
-好吧 = Hao ba = "ok" mais hésitant ("ça me va")
-我听不明白 = wǒ tīng bù míngbái = (j'ai entendu) mais je n'ai pas compris
-有一点忙 = Yǒu yīdiǎn máng = un peu occupé
-没事 = mei shì = pas de problème
-太好了 = tài hǎo le = trop bien / super
-  
+吃包了 = chī bao le = je n'ai plus faim = rempli    
+很好吃 = hěn hǎo chī = très bon (nourriture)   
+对 = duì = correct (utilisé pour approbation, "oui")  
+好的 = Hao de = "ok" positif   
+好吧 = Hao ba = "ok" mais hésitant ("ça me va")  
+我听不明白 = wǒ tīng bù míngbái = (j'ai entendu) mais je n'ai pas compris   
+有一点忙 = Yǒu yīdiǎn máng = un peu occupé   
+没事 = mei shì = pas de problème  
+太好了 = tài hǎo le = trop bien / super   
+    
 # Verbes  
 有 = yǒu = avoir  
 是 = shi = être   
