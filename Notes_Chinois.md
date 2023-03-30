@@ -1,5 +1,35 @@
 # Vocabulaire de base  
+错 = cuò = mal, faux (不错 = pas mal)    
+吃饭 = chī fàn = Manger (du riz, les deux vont ensemble)    
+吃包了 = chī bao le = je n'ai plus faim = rempli  
+很好吃 = hěn hǎo chī = très bon (nourriture)  
+贵 = gui = cher, précieux    
+还 = hǎi = encore  
+个 = ge = spécificateur   
+dà jiā = tout le monde  
+手 = main   
+没有 = Méiyǒu = ne pas avoir   
+口渴 = kǒu kě = soif   
+看到 = voir     
+和= hé / hàn = et   
+喜欢 = xǐ huān = aimer / bien aimer   
+(更喜欢 = gēng xǐ huān = préférer)  
+快乐 = kuài lè = content, joyeux    
+我二十七岁。  
+生气= shengqi = énervé (lit. "Faire naître de l'air")  
+还是 = háishì = ou   
+先生 = xiān shēng = monsieur 
+你几岁？= Tu as quel âge ?   
+生日 = sheng ri = anniversaire     
+    
   
+**Temporalité**  
+什么时候 = shénme shíhòu = quand ?    
+几侯 = jîhòu = quand   
+昨天 = zuótiān = hier  
+今天 = jīntiān = aujourd'hui   
+明天 = míngtiān = demain  
+ 
   
 # Règles de base
   
